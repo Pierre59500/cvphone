@@ -131,15 +131,18 @@ height: 197px;
 
   .contentement h3{
     border: 2px solid #fb0d0d;
-        margin: auto;
-        position: absolute;
-        /* position: relative; */
-        background: grey;
-        left: 318px;
-        top: 142px;
-        /* width: 263px; */
-        /* height: 197px;*/
+    margin: auto;
+    position: absolute;
+    /* position: relative; */
+    background: grey;
+    left: 301px;
+    top: 142px;
+    width: 114px;
+    height: 23px;
+    /* width: 263px; */
+    /* height: 197px;*/
   }
+
 
   .contentement p {
     border: 2px solid #fb0d0d;
@@ -149,9 +152,8 @@ height: 197px;
     height: 197px;
     width: 235px;
     top: bottom;
-    bottom: 57px;
+    bottom: 2px;
   }
-
 
   .debut {
     text-align: center;
