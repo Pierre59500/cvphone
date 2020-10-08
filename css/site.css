@@ -250,17 +250,21 @@
   .pdf{
     position: relative;
     border: 2px solid #fb0d0d;
-    top: 184px;
+    top: 210px;
     height: 41px;
     width: 126px;
     margin: auto;
   }
   .book{
     position: relative;
-  border: 2px solid #fb0d0d;
-  top: 139px;
-  width: 126px;
-  margin: auto;
+    border: 2px solid #fb0d0d;
+    top: 116px;
+    height: 41px;
+    width: 126px;
+    margin: auto;
+}
+  .footer{
+    height: 20px;
   }
 
 
