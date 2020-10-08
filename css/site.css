@@ -121,12 +121,12 @@
 
   .contentement img{
     border: 2px solid #fb0d0d;
-margin: auto;
-position: relative;
-background: grey;
-left: 225px;
-width: 263px;
-height: 197px;
+    margin: auto;
+    position: relative;
+    background: grey;
+    left: 225px;
+    width: 263px;
+    height: 197px;
   }
 
   .contentement h3{
@@ -154,6 +154,70 @@ height: 197px;
     top: bottom;
     bottom: 2px;
   }
+
+
+
+
+  .titre4 h2{
+    border: 2px solid #695454;
+    position: relative;
+    top: 89px;
+    background: red;
+    height: 45px;
+    width: 433px;
+    left: 144px;
+  }
+
+
+  .hobbies{
+    position: relative;
+    border: 2px solid #fb0d0d;
+    top: 53px;
+    position: relative;
+    border: 2px solid #fb0d0d;
+    top: 101px;
+  }
+
+  .carte1 {
+    position: relative;
+    border: 2px solid #fb0d0d;
+    /* top: 83px; */
+    height: 265px;
+    width: 311px;
+    margin: auto;
+  }
+
+  .carte-image{
+    position: relative;
+    border: 2px solid #fb0d0d;
+    top: 83px;
+  }
+
+  .carte-texte h2{
+    position: relative;
+    border: 2px solid #fb0d0d;
+    top: 83px;
+  }
+
+  .ls p{
+    border: 2px solid #fb0d0d;
+    /* top: 45px; */
+    position: relative;
+    height: 56px;
+    background: gray;
+  }
+
+
+.titre5 h2{
+  border: 2px solid #695454;
+  position: relative;
+  top: 89px;
+  background: red;
+  height: 45px;
+  width: 433px;
+  left: 144px;
+}
+
 
   .debut {
     text-align: center;
