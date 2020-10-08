@@ -38,6 +38,7 @@
     font-size: 34px;
     width: 279px;
     height: 228px;
+    margin: auto;
   }
 
   .right{
@@ -48,6 +49,7 @@
     height: 45px;
     top: 9px;
     position: relative;
+    margin:auto
   }
 
   .titre1{
