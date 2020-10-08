@@ -208,30 +208,55 @@
   }
 
 
-.titre5 h2{
-  border: 2px solid #695454;
-  position: relative;
-  top: 89px;
-  background: red;
-  height: 45px;
-  width: 433px;
-  left: 144px;
-}
-
-
-  .debut {
-    text-align: center;
-    height: auto;
-    border-bottom: 0;
+  .titre5 h2{
+    border: 2px solid #695454;
     position: relative;
-    margin: 0 auto;
-    padding: 0 3rem;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: center;
-    text-indent: 25px;
+    top: 117px;
+    background: red;
+    height: 45px;
+    width: 433px;
+    left: 144px;
+  }
+
+  .contacter{
+    border: 2px solid #fb0d0d;
+    /* top: 45px; */
+    position: relative;
+    height: 231px;
+    width: 322px;
+    margin: auto;
+    top: 115px;
+    background: gray;
+  }
+
+  .mail{
+    position: relative;
+    border: 2px solid #fb0d0d;
+    top: 149px;
+    width: 126px;
+    margin: auto;
+  }
+  .tel{
+    position: relative;
+    border: 2px solid #fb0d0d;
+    top: 83px;
+    width: 126px;
+    margin: auto;
+  }
+
+  .pdf{
+    position: relative;
+    border: 2px solid #fb0d0d;
+    top: 83px;
+    width: 126px;
+    margin: auto;
+  }
+  .book{
+    position: relative;
+    border: 2px solid #fb0d0d;
+    top: 83px;
+    width: 126px;
+    margin: auto;
   }
 
 
